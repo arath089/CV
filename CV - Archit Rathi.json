@@ -148,11 +148,20 @@
       "summary": "Schematic designing and layout of PCB components and performing DRC/LVS checking for design optimization."
     }
   ],
-  "skills": {
-    "programmingLanguages": "C#/C++, Kotlin",
-    "hardwareDescriptionLanguage": "Verilog, VHDL",
-    "platforms": "Xilinx Vivado, MATLAB, AVR Studio, Unity, Visual Studio, CADENCE, ALTIUM Designer, Adobe Photoshop"
-  },
+  "skills": [
+    {
+      "name": "Programming Langugages",
+      "values": ["C#/C++", "Kotlin"]
+    },
+    {
+      "name": "Hardware Description Language",
+      "values": ["Verilog", "VHDL"]
+    },
+    {
+      "name": "Platforms",
+      "values": ["Xilinx Vivado", "MATLAB", "AVR Studio", "Unity", "Visual Studio", "CADENCE", "ALTIUM Designer", "Adobe Photoshop"]
+    }
+  ],
   "languages": [],
   "references": []
 }
