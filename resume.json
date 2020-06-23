@@ -6,6 +6,7 @@
     "email": "arath089@uottawa.ca",
     "citizenship": [],
     "phone": "+1 (343) 999-3111",
+"availability": "https://calendly.com/architrrathi",
     "location": {
       "address": "190 Lees Avenue, Apartment 1208",
       "postalCode": "K1S 5L5",
@@ -83,7 +84,7 @@
       "website": "https://github.com/arath089",
 	    "startDate": "2020-04-30",
       "endDate": "now",
-      "summary": "Android gaming application designing using Unity gaming engine creating different sprites and objects. Adding C# scripting using Visual Studio for functionalities. Object creation and sprite animation using Adobe Photoshop.",
+      "summary": "Android Game designing using Unity gaming engine creating different sprites and objects. Space exploration game. Adding C# scripting using Visual Studio for functionalities. Object creation and sprite animation using Adobe Photoshop.",
       "keywords": [
         "Gaming","C#","Unity Engine","Visual Studio","Adobe Photoshop","Scripting"
       ]
