@@ -6,7 +6,7 @@
     "email": "arath089@uottawa.ca",
     "citizenship": [],
     "phone": "+1 (343) 999-3111",
-"availability": "https://calendly.com/architrrathi",
+    "availability": "https://calendly.com/architrrathi",
     "location": {
       "address": "190 Lees Avenue, Apartment 1208",
       "postalCode": "K1S 5L5",
@@ -15,19 +15,19 @@
       "countryCode": "CA"
     },
     "profiles": [
-	    {
+      {
         "network": "LinkedIn",
         "username": "Archit Rathi",
         "url": "https://ca.linkedin.com/in/archit-rathi"
-      },     
-	    {
+      },
+      {
         "network": "GitHub",
         "username": "arath089",
         "url": "https://github.com/arath089"
       }
     ]
   },
- "education": [
+  "education": [
     {
       "institution": "University of Ottawa",
       "website": "https://uottawa.ca",
@@ -38,9 +38,9 @@
       "gpa": "7.5",
       "courses": [
         "FPGA Designing",
-         "Ethics in AI",
-         "Machine Learning Feature Extraction",
-         "Software & Product Management"
+        "Ethics in AI",
+        "Machine Learning Feature Extraction",
+        "Software & Product Management"
       ]
     },
     {
@@ -60,15 +60,24 @@
     }
   ],
   "work": [
-	{
+    {
       "company": "Freelance",
       "position": "Web Developer",
       "website": "",
       "startDate": "2020-04-20",
-      "endDate": "Current",
-      "summary": "Working on my own portfolio website as well as a Security Business website for Client's business needs. 
-		-Gained experience in Visual Studio Code and Microsoft SQL Server
-		-Experience in the analysis and development of websites using HTML5, CSS3, BootStrap4 and JavaScript."
+      "endDate": "now",
+      "summary": "Working on my own portfolio website as well as a Security Business website for Client's business needs.",
+      "highlights": [
+        "Gained experience in Visual Studio Code and Microsoft SQL Server.",
+        "Experience in the analysis and development of websites."
+      ],
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "JavaScript",
+        "Microsoft SQL Server"
+      ]
     },
     {
       "company": "iEnergizer Ltd., Noida, India",
@@ -92,48 +101,65 @@
       "name": "Android Game Development",
       "position": "Freelance",
       "website": "https://github.com/arath089",
-	    "startDate": "2020-04-30",
+      "startDate": "2020-04-30",
       "endDate": "now",
       "summary": "Android Game designing using Unity gaming engine creating different sprites and objects. Space exploration game. Adding C# scripting using Visual Studio for functionalities. Object creation and sprite animation using Adobe Photoshop.",
       "keywords": [
-        "Gaming","C#","Unity Engine","Visual Studio","Adobe Photoshop","Scripting"
+        "Gaming",
+        "C#",
+        "Unity Engine",
+        "Visual Studio",
+        "Adobe Photoshop",
+        "Scripting"
       ]
     },
     {
       "name": "FPGA Verilog Memory Designing",
-      "position":"University of Ottawa",
+      "position": "University of Ottawa",
       "website": "https://github.com/arath089",
-	    "startDate": "2020-01-01",
+      "startDate": "2020-01-01",
       "endDate": "2020-04-15",
       "summary": "Designed Cache Memory as well as its testbench using Verilog on Xilinx Vivado using Direct Mapping. Power system analysis, clock gating, and pipelining performed for design optimization.",
       "keywords": [
-        "Verilog","Vivado","Cache Designing","Power system analysis","design optimization", "Xilinx"
+        "Verilog",
+        "Vivado",
+        "Cache Designing",
+        "Power system analysis",
+        "design optimization",
+        "Xilinx"
       ]
     },
     {
       "name": "Research Assistant",
       "position": "University of Ottawa",
       "website": "https://github.com/arath089",
-	    "startDate": "2019-01-01",
+      "startDate": "2019-01-01",
       "endDate": "2019-12-20",
       "summary": "Trained system to detect irregular respiration which leads to stroke or heart failure using UWB radar. Performed exploratory data analysis, pattern recognition, and data pipe-lining on time series data to find trends and patterns in respiration variations with the objective to extract relevant features for classification",
       "keywords": [
-        "UWB Radar","Data Analysis","Pattern Recognition","Data Classification"
+        "UWB Radar",
+        "Data Analysis",
+        "Pattern Recognition",
+        "Data Classification"
       ]
     },
     {
       "name": "Final Year Project",
       "position": "G. B. Pant Engineering College, India",
       "website": "https://github.com/arath089",
-	    "startDate": "2017-07-01",
+      "startDate": "2017-07-01",
       "endDate": "2018-06-01",
       "summary": "MATLAB based MRI Image De-Noising filter using Fuzzy Logic Design. Combined Fuzzy Logic with MRI de-noising techniques to better detect brain tumors using MATLAB and Simulink performing better than other methods available for detection.",
       "keywords": [
-        "MATLAB","MRI","Image Processing","Fuzzy Design Logic","Simulink"
+        "MATLAB",
+        "MRI",
+        "Image Processing",
+        "Fuzzy Design Logic",
+        "Simulink"
       ]
     }
   ],
-  "certifications":[
+  "certifications": [
     {
       "name": "Aerial Robotics",
       "institution": "University of Pennsylvania",
@@ -162,15 +188,32 @@
   "skills": [
     {
       "name": "Programming Langugages",
-      "values": ["C#/C++", "Kotlin"]
+      "values": [
+        "C#/C++",
+        "JavaScript",
+        "HTML5",
+        "CSS3"
+      ]
     },
     {
       "name": "Hardware Description Language",
-      "values": ["Verilog", "VHDL"]
+      "values": [
+        "Verilog",
+        "VHDL"
+      ]
     },
     {
       "name": "Platforms",
-      "values": ["Xilinx Vivado", "MATLAB", "AVR Studio", "Unity", "Visual Studio", "CADENCE", "ALTIUM Designer", "Adobe Photoshop"]
+      "values": [
+        "Visual Studio Code",
+        "Xilinx Vivado",
+        "MATLAB",
+        "AVR Studio",
+        "Unity",
+        "CADENCE",
+        "ALTIUM Designer",
+        "Adobe Photoshop"
+      ]
     }
   ],
   "languages": [],
