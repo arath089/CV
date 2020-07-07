@@ -60,6 +60,16 @@
     }
   ],
   "work": [
+	{
+      "company": "Freelance",
+      "position": "Web Developer",
+      "website": "",
+      "startDate": "2020-04-20",
+      "endDate": "Current",
+      "summary": "Working on my own portfolio website as well as a Security Business website for Client's business needs. 
+		-Gained experience in Visual Studio Code and Microsoft SQL Server
+		-Experience in the analysis and development of websites using HTML5, CSS3, BootStrap4 and JavaScript."
+    },
     {
       "company": "iEnergizer Ltd., Noida, India",
       "position": "Assistant Executive",
